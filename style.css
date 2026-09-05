@@ -15,3 +15,11 @@ nav {
   gap: 2px;
   width: fit-content;
 }
+
+/* This is for the California Roll recipe. */
+.california-header {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 16px;
+}
